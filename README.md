@@ -1,3 +1,3 @@
-This project is a web app for browsing and viewing free-to-play games. It fetches game data from an API and dynamically displays it on the webpage. CSS styles enhance the visual appeal, including fonts, backgrounds, and animations. Users can explore game categories, view details, and experience smooth transitions. Overall, it provides a user-friendly interface for discovering free-to-play games.
+This games explorer project is a dynamic web application built on the principles of Object-Oriented Programming (OOP) and API integration. This application is designed for effortless exploration of free-to-play games, offering categorized browsing, detailed game information, and smooth transitions, all fetched dynamically from an external API. Crafted using HTML, CSS, and modular JavaScript, with Bootstrap utilized for polished styling and user interface enhancements.
 
 Demo: https://zeyadgamal96.github.io/Games/
